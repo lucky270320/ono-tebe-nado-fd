@@ -1,0 +1,17 @@
+@font-face {
+    font-family: Raleway;
+    src:
+      url(./interregular.woff2) format('woff2'),
+      url(./interregular.woff) format('woff');
+    font-weight: normal;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: Raleway;
+    src:
+      url(./interbold.woff2) format('woff2'),
+      url(./interbold.woff) format('woff');
+    font-weight: bold;
+    font-display: swap;
+  }
